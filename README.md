@@ -13,7 +13,7 @@
 **<h3 align="left">GitHub Stats</h3>**
 
 
-  <img width="20%" src="https://img.shields.io/github/last-commit/gkhns89/mds-tracking-api?style=for-the-badge" alt="GitHub last commit" />
+  <img width="20%" src="https://img.shields.io/github/last-commit/gkhns89/mds-tracking?style=for-the-badge" alt="GitHub last commit" />
 <div style="display: flex; flex-direction: column; gap: 4px; justify-content: center;">
   <img width="43%" src="https://streak-stats.vercel.app?user=gkhns89&theme=react" alt="GitHub Streak" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gkhns89&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
