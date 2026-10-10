@@ -47,4 +47,4 @@
 
 <p align="left"><a href="https://github.com/gkhns89" target="_blank"><img src="https://img.shields.io/badge/GitHub-21232A?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/gokhansisman" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-21232A?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://gokhan.codes" target="_blank"><img src="https://img.shields.io/badge/Personal_Page-21232A?style=for-the-badge&logo=homepage&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-![Profile views](https://komarev.com/ghpvc/?username=gkhns89&label=Profile%20views&color=4338ca&style=flat)
+![Profile views](https://hits.sh/github.com/gkhns89.svg?style=flat&label=Profile%20views&color=4338ca)
